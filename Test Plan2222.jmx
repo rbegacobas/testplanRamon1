@@ -44,6 +44,12 @@
           <stringProp name="ActionProcessor.duration">0</stringProp>
         </TestAction>
         <hashTree/>
+        <TestAction guiclass="TestActionGui" testclass="TestAction" testname="Flow Control Action">
+          <intProp name="ActionProcessor.action">1</intProp>
+          <intProp name="ActionProcessor.target">0</intProp>
+          <stringProp name="ActionProcessor.duration">0</stringProp>
+        </TestAction>
+        <hashTree/>
       </hashTree>
     </hashTree>
   </hashTree>
